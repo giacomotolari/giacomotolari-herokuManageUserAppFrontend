@@ -10,7 +10,8 @@
     "react-dom": "^17.0.2",
     "react-icons": "^4.3.1",
     "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "sass": "^1.42.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,9 +36,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "sass": "^1.43.4"
-  },
-  "postinstall": "npm rebuild sass && npm install --unsafe-perm -f sass"
+  }
 }
