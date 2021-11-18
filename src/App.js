@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-// import './App.scss';
+import './App.scss';
 import { GrEdit } from 'react-icons/gr';
 import { RiDeleteBin6Line } from 'react-icons/ri';
 
