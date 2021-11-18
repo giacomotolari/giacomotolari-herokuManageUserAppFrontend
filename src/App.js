@@ -52,7 +52,7 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>User Management App</h1>
+      <h1>User Management APP</h1>
       <div className='topRow'>
         <button>Add User</button>
         <br />
