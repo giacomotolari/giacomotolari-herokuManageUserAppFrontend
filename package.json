@@ -39,6 +39,5 @@
   "devDependencies": {
     "sass": "^1.43.4"
   },
-  "postinstall": "npm rebuild node-sass && npm install --unsafe-perm -f node-sass"
-
+  "postinstall": "npm rebuild sass && npm install --unsafe-perm -f sass"
 }
